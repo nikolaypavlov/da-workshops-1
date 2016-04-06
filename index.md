@@ -408,4 +408,4 @@ apply() and family, aggregate(), split(), with(), order(), reshape2, stringr, pl
 * Skype Chat for discussions: https://join.skype.com/gjN0CfAd4bhg
 * [The Split-Apply-Combine Strategy for Data Analysis](https://www.jstatsoft.org/article/view/v040i01)
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
-* Try different solution for the last exercise.
+* Try different solution for the last exercise
